@@ -1,0 +1,5 @@
+sky
+navy
+azure
+steel
+sapphire

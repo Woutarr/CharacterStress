@@ -1,0 +1,7 @@
+forest
+olive
+lime
+sage
+jade
+sea
+emerald

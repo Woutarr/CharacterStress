@@ -1,0 +1,6 @@
+ruby
+magenta
+creamy
+fuchsia
+cherry
+flamingo

@@ -1,0 +1,13 @@
+gold
+pumpkin
+fire
+dijon
+honey
+carrot
+apricot
+tangerine
+bronze
+cider
+ochre
+rust
+amber

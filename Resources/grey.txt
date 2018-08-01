@@ -1,0 +1,9 @@
+fossil
+steel
+ash
+shadow
+charcoal
+iron
+pewter
+stone
+smoke

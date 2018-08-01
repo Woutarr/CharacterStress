@@ -1,0 +1,82 @@
+{
+  "yellow": [
+    "peach",
+    "mustard",
+    "corn",
+    "banana",
+    "lemon",
+    "bumblebee",
+    "cream",
+    "flaxen"
+  ],
+  "orange": [
+    "gold",
+    "pumpkin",
+    "fire",
+    "dijon",
+    "honey",
+    "carrot",
+    "apricot",
+    "tangerine",
+    "bronze",
+    "cider",
+    "ochre",
+    "rust",
+    "amber"
+  ],
+  "red": [
+    "salmon",
+    "scarlet",
+    "maroon",
+    "crimson"
+  ],
+  "pink": [
+    "ruby",
+    "magenta",
+    "creamy",
+    "fuchsia",
+    "cherry",
+    "flamingo"
+  ],
+  "violet": [
+    "lavender",
+    "amethyst",
+    "grape",
+    "orchid",
+    "lilac"
+  ],
+  "blue": [
+    "sky",
+    "navy",
+    "azure",
+    "steel",
+    "sapphire"
+  ],
+  "green": [
+    "forest",
+    "olive",
+    "lime",
+    "sage",
+    "jade",
+    "sea",
+    "emerald"
+  ],
+  "brown": [
+    "cedar",
+    "umber",
+    "chocolate",
+    "walnut",
+    "wood"
+  ],
+  "gray": [
+    "fossil",
+    "steel",
+    "ash",
+    "shadow",
+    "charcoal",
+    "iron",
+    "pewter",
+    "stone",
+    "smoke"
+  ]
+}
